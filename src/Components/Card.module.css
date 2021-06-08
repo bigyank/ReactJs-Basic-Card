@@ -5,6 +5,7 @@
   width: 560px;
   border-radius: 0.4em;
   overflow: hidden;
+  margin-top: 1.5em;
 }
 
 .card:hover {

@@ -7,9 +7,11 @@ import Typography from "./Components/Typography";
 
 class App extends React.Component {
   render() {
+    const imgSrc = "https://source.unsplash.com/random/500x500";
+
     return (
       <Card>
-        <CardMedia />
+        <CardMedia source={imgSrc} />
         <CardBody>
           <Typography component="h2">Lorem Ipsum</Typography>
           <Typography component="p">
