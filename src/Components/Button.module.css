@@ -1,0 +1,19 @@
+.btn {
+  border: none;
+  outline: none;
+  padding: 1em 2.5em;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  border-radius: 0.5em;
+  cursor: pointer;
+  background-color: transparent;
+  color: #648dae;
+  margin-left: 2em;
+  outline: 1px solid #a6d4fa;
+}
+
+.btn:hover {
+  background-color: #90caf9;
+  color: white;
+}
