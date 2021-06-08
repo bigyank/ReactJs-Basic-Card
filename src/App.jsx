@@ -13,7 +13,9 @@ class App extends React.Component {
       <Card>
         <CardMedia source={imgSrc} />
         <CardBody>
-          <Typography component="h2">Lorem Ipsum</Typography>
+          <Typography component="h2" variant="secondary">
+            Lorem Ipsum
+          </Typography>
           <Typography component="p">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
             aut sapiente facere omnis! Corrupti et placeat illum neque commodi

@@ -1,7 +1,15 @@
 .h2 {
   font-size: 2em;
+  text-transform: uppercase;
 }
 
 .p {
   letter-spacing: 1.5px;
+  color: grey;
+  font-size: 1.1em;
+  line-height: 1.25;
+}
+
+.secondary {
+  color: #e33371;
 }
